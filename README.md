@@ -1,4 +1,9 @@
 # MOF-Binder-Composite
+<p align="center">
+  <img src="shape.gif" width="800" alt=" "/>
+</p>
+
+
 Files to reproduce the data presented in the paper "Microscopic insight into the shaping of MOFs and its impact on CO2 capture performance "
 
 The "**Binder**" folder consists of four binder models and a Lammps input file used to equilibrate the structure. 
